@@ -1,0 +1,154 @@
+/*
+* rmm-stylesheet.css
+* Stylesheet for plugin 
+*/
+/* RAFA CARVALHIDO BOTÕES DE CHAT*/
+.behind {
+	position: fixed !important;
+    bottom: 50px !important;
+    visibility: hidden;
+/*    left: 40px !important;*/
+	transition: all 1s linear !important;
+}
+.behind a i:before {
+/*	font-size: 1px !important;*/
+}
+#racar-contactme {
+    position: fixed;
+    bottom: 50px;
+/*    left: 30px;*/
+    color: #fff;
+	z-index: 14;
+}
+#racar-contactme .fa-comment-dots:before  {
+	color: #fff;
+    font-style: normal;
+    background: lightcoral;
+    padding: 12px 12px;
+    border-radius: 62%;
+    font-size: 30px;
+    width: 20px;
+    height: 20px;
+}
+.rmm-item {
+    position: fixed;
+/*    left: 30px;*/
+    color: #fff;
+    z-index: 10;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+#rmm-item-1 { bottom: 110px; transition-delay: 250ms;}
+#rmm-item-2 { bottom: 170px; transition-delay: 300ms;}
+#rmm-item-3 { bottom: 230px; transition-delay: 350ms;}
+#rmm-item-4 { bottom: 290px; transition-delay: 400ms;}
+#rmm-item-5 { bottom: 350px; transition-delay: 500ms;}
+
+
+#racar-facebook .fa-facebook:before  {
+	color: #fff;
+    font-style: normal;
+    background: #3b5998;
+    padding: 12px 18px; /*era 12 22*/
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+#racar-facebook .fa-facebook-messenger:before  {
+    color: #fff;
+    font-style: normal;
+    background: linear-gradient(rgb(255, 105, 104) 0%, rgb(163, 52, 250) 50%, rgb(6, 149, 255) 100%);
+    padding: 12px 14px; /*era 12 22*/
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+
+#racar-whatsapp .fa-whatsapp:before {
+	color: #fff;
+    font-style: normal;
+    background: #4DC247;
+    padding: 12px 15px;
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+
+#racar-instagram .fa-instagram:before  {
+	color: #fff;
+    font-style: normal;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    padding: 12px 15px;
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+
+#racar-skype .fa-skype:before  {
+	color: #fff;
+    font-style: normal;
+    background: #00aff0;
+    padding: 12px 15px;
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+
+#racar-telegram .fa-telegram:before {
+    color: #fff;
+    font-style: normal;
+    background: #0088cc;
+    padding: 12px 15px;
+    border-radius: 62%;
+    font-size: 26px;
+    width: 20px;
+    height: 20px;
+}
+
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[data-title]:after {
+    content: attr(data-title);
+    font-size: 150%;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -5px;
+    white-space: nowrap;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+}
+[data-title] {
+    position: relative;
+}
+
+@media only screen and (max-width:900px) {
+	#racar-whatsapp .fa-whatsapp:before,#racar-instagram .fa-instagram:before, #racar-skype .fa-skype:before {
+		padding: 9px 12px;
+		font-size: 26px;
+	}
+    #racar-contactme {bottom: 65px;}
+	#racar-contactme .fa-comment-dots:before {
+		padding: 9px;
+		font-size: 26px;
+	}
+	#racar-facebook .fa-facebook-messenger:before, #racar-telegram .fa-telegram:before {
+		padding: 9px 10px;
+		font-size: 26px;
+	}
+	#rmm-item-1 {bottom: 115px;}
+	#rmm-item-2 {bottom: 165px;}
+	#rmm-item-3 {bottom: 215px;}
+	#rmm-item-4 {bottom: 265px;}
+    #rmm-item-5 {bottom: 315px;}
+}

@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RaCar Message Me\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-08 18:52+0000\n"
+"PO-Revision-Date: 2023-04-08 19:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: racar-message-me"
+
+#: includes/admin/class-rmm-admin-options.php:378
+msgid "5521989898989"
+msgstr "5521989898989"
+
+#: includes/admin/class-rmm-admin-options.php:321
+msgid ""
+"<span class=\"attention\">ATTENTION!</span> If the buttons do not show "
+"properly, please install the Font Awesome plugin at "
+msgstr ""
+"<span class=\"attention\">¡ATENCIÓN!</span> Si los botones no se muestran "
+"correctamente, instale el complemento Font Awesome en"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:26
+msgid "Activate WooCommerce"
+msgstr "Activar WooCommerce"
+
+#: includes/admin/class-rmm-admin-options.php:167
+msgid "Buttons side of the screen"
+msgstr "Lado de la pantalla del botón"
+
+#: includes/admin/class-rmm-admin-options.php:428
+msgid "by clicking here"
+msgstr "haciendo clic aquí"
+
+#: includes/admin/class-rmm-admin-options.php:352
+msgid "Chat with an attendant!"
+msgstr "¡Chatea con un asistente!"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:23
+msgid "depends on WooCommerce to be installed and active in order to work!"
+msgstr "¡depende de que WooCommerce esté instalado y activo para que funcione!"
+
+#: includes/admin/class-rmm-admin-options.php:416
+msgid "Do you like this plugin? Please tell me what you like about it "
+msgstr "¿Te gusta este plugin? Por favor, dime lo que te gusta de él."
+
+#: includes/admin/class-rmm-admin-options.php:422
+msgid "Do you need help with this plugin? Please open a ticket"
+msgstr "¿Necesita ayuda con este plugin? Por favor abre un ticket"
+
+#: includes/admin/class-rmm-admin-options.php:428
+msgid "Do you want to show your love? Please buy me some coffee"
+msgstr "¿Quieres demostrar tu amor? Por favor, cómprame un café."
+
+#: includes/admin/class-rmm-action-list.php:47
+msgid "Donate"
+msgstr "Donar"
+
+#: includes/admin/class-rmm-admin-options.php:119
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: includes/admin/class-rmm-admin-options.php:416
+#: includes/admin/class-rmm-admin-options.php:422
+msgid "here"
+msgstr "aquí"
+
+#. URI of the plugin
+msgid "https://profissionalwp.dev.br/"
+msgstr "https://profissionalwp.dev.br/"
+
+#. Author URI of the plugin
+msgid "https://profissionalwp.dev.br/blog/contato/rafa-carvalhido/"
+msgstr "https://profissionalwp.dev.br/blog/contato/rafa-carvalhido/"
+
+#: includes/admin/class-rmm-admin-options.php:216
+msgid "Instagram Usertag"
+msgstr "Etiqueta de usuario de Instagram"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:34
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+#: includes/admin/class-rmm-admin-options.php:335
+#: includes/admin/class-rmm-admin-options.php:342
+msgid "Left"
+msgstr "Izquierdo"
+
+#: includes/admin/class-rmm-admin-options.php:183
+msgid "Main Button Background Color"
+msgstr "Color de fondo del botón principal"
+
+#: includes/admin/class-rmm-admin-options.php:191
+msgid "Main Button Icon Color"
+msgstr "Color del icono del botón principal"
+
+#: includes/admin/class-rmm-admin-options.php:175
+msgid "Main button text on hover"
+msgstr "Texto del botón principal al pasar el mouse"
+
+#: includes/admin/class-rmm-admin-options.php:199
+msgid "Make sure to type the country and city code before the number"
+msgstr "Asegúrese de escribir el código de país y ciudad antes del número"
+
+#: includes/admin/class-rmm-admin-options.php:208
+msgid "Messenger Usertag"
+msgstr "EtiquetaDeUsuarioDeMessenger"
+
+#: includes/admin/class-rmm-admin-options.php:386
+msgid "MyFacebookTag"
+msgstr "MiEtiquetaDeFacebook"
+
+#: includes/admin/class-rmm-admin-options.php:394
+msgid "MyInstagramTag"
+msgstr "MiEtiquetaDeInstagram"
+
+#: includes/admin/class-rmm-admin-options.php:402
+msgid "MySkypeName"
+msgstr "MiNombreSkype"
+
+#: includes/admin/class-rmm-admin-options.php:410
+msgid "MyTelegramName"
+msgstr "MiNombreTelegram"
+
+#: includes/admin/class-rmm-admin-options.php:240
+msgid "Plugin Rating"
+msgstr "Calificación del Plugin"
+
+#. Name of the plugin
+msgid "RaCar Message Me"
+msgstr "RaCar Message Me"
+
+#. Author of the plugin
+msgid "Rafa Carvalhido"
+msgstr "Rafa Carvalhido"
+
+#: includes/admin/class-rmm-admin-options.php:338
+#: includes/admin/class-rmm-admin-options.php:343
+msgid "Right"
+msgstr "Derecho"
+
+#: includes/admin/class-rmm-action-list.php:39
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-rmm-admin-options.php:256
+msgid "Show your Appreciation"
+msgstr "Muestre su aprecio"
+
+#: includes/admin/class-rmm-admin-options.php:224
+msgid "Skype Name"
+msgstr "Nombre de Skype"
+
+#: includes/admin/class-rmm-admin-options.php:248
+msgid "Support"
+msgstr "Apoyo"
+
+#: includes/admin/class-rmm-admin-options.php:232
+msgid "Telegram Username"
+msgstr "Nombre de usuario de telegrama"
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to add a customizable button with your social "
+"networks inboxes (direct message). The button appears on the left bottom "
+"corner of your website. When clicked, it'll take the user to your social "
+"network private message inbox."
+msgstr ""
+"Este plugin le permite agregar un botón personalizable con sus bandejas de "
+"entrada de redes sociales (mensaje directo). El botón aparece en la esquina "
+"inferior izquierda de su sitio web. Al hacer clic, llevará al usuario a la "
+"bandeja de entrada de mensajes privados de su red social."
+
+#: includes/admin/class-rmm-admin-options.php:199
+msgid "WhatsApp number"
+msgstr "Número de WhatsApp"

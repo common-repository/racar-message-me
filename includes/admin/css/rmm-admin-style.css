@@ -1,0 +1,16 @@
+.form-table th {width:250px;}
+.form-table td input[type="text"] {
+    width: 300px;
+    max-width: 100%;
+}
+span.quick-exp {
+    position: absolute;
+    display: none;
+    font-size: 0.8em;
+    color: #888;
+	padding-top: 5px;
+}
+span.option-name:hover > span.quick-exp {display: block;}
+/*########*/
+span.attention {color: red; font-weight: 600;}
+.form-table input.rmm_button_side {margin-right: 30px;}
